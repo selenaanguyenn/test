@@ -6,18 +6,18 @@
         "description": "An unofficial OpenAPI definition for [httpbin.org](https://httpbin.org)."
     },
     "servers": [
-		{
-			"url": "{scheme}://cloud.snguyen.k736.net/test",
-			"variables": {
-				"scheme": {
-					"default": "https",
-					"enum": [
-						"https",
-						"http"
-					]
-				}
+	{
+		"url": "{scheme}://cloud.snguyen.k736.net/test",
+		"variables": {
+			"scheme": {
+				"default": "https",
+				"enum": [
+					"https",
+					"http"
+				]
 			}
 		}
+	}
     ],
     "tags": [
         {
