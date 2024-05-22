@@ -2,7 +2,7 @@
     "openapi": "3.0.1",
     "info": {
         "version": "1.0-oas3",
-        "title": "httpbin",
+        "title": "selena-httpbin",
         "description": "An unofficial OpenAPI definition for [httpbin.org](https://httpbin.org)."
     },
     "servers": [
